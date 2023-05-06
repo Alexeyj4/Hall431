@@ -1,0 +1,11 @@
+Name: LAVA
+Version: 2013
+Preview: Yes
+Units: Millimeters
+Dimension: 463.76 x 1304.74 x 401.72
+Polys: 1 789
+XForm: Yes
+Box Trick: Yes
+Model Parts: 11
+Render: Corona
+Formats: 3Ds Max 2013, OBJ, FBX
